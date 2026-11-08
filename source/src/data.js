@@ -224,6 +224,15 @@ export const PROJECTS = [
   // ---------- GitHub (open repos with live demos) ----------
   {
     cat: 'github',
+    title: 'Pathway Discipleship',
+    year: 2026,
+    image: img('gh-pathway'),
+    tags: ['LMS', 'Web App'],
+    desc: 'A discipleship learning platform — three eight-week stages, Google or email sign-up, weekly units that unlock in order (video, live class, assignment, quiz, attendance), and a mentor for every learner.',
+    links: [live('https://pathway-lms.vercel.app')],
+  },
+  {
+    cat: 'github',
     title: 'Elevation Teenz',
     year: 2026,
     image: img('gh-elevation'),
