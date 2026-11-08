@@ -95,7 +95,7 @@ export const SERVICES = [
   {
     id: 'brand',
     num: '04',
-    title: 'Brand & Visual Design',
+    title: 'Graphic Design',
     tagline: 'Visual identities that leave a mark.',
     body: 'Identity systems, logo design, campaigns, typography, packaging and motion — visual design that tells a story people remember.',
     tags: ['Logo Marks', 'Color Worlds', 'Campaigns', 'Layouts'],
@@ -107,7 +107,7 @@ export const CATEGORIES = [
   { id: 'uiux', label: 'UI / UX' },
   { id: 'web', label: 'Web' },
   { id: 'apps', label: 'Mobile' },
-  { id: 'brand', label: 'Brand' },
+  { id: 'brand', label: 'Design' },
 ]
 
 const img = (f) => `images/projects/${f}.webp`
