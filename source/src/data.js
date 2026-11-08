@@ -149,6 +149,15 @@ export const PROJECTS = [
   // ---------- Web ----------
   {
     cat: 'web',
+    title: 'Chinox Cosmetics',
+    year: 2026,
+    image: img('gh-chinox'),
+    tags: ['E-Commerce', '3D / Interactive'],
+    desc: 'A skincare storefront for Chinox Cosmetics in Abuja — a pull-the-tag intro, 3D product bottles layered over a bold wordmark, collections and brands from the UK, US and Korea, store locations and free consultations.',
+    links: [live('https://timothy7380.github.io/chinox-3d/'), gh('chinox-3d')],
+  },
+  {
+    cat: 'web',
     title: 'OMP Creative Academy',
     year: 2026,
     image: img('gh-ompca'),
