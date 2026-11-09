@@ -149,6 +149,15 @@ export const PROJECTS = [
   // ---------- Web ----------
   {
     cat: 'web',
+    title: 'BeautybyAD',
+    year: 2026,
+    image: img('gh-beautybyad'),
+    tags: ['Beauty Brand', 'Scroll Experience'],
+    desc: 'A scroll-driven site for Beauty by Adeola Diiadem, a Lagos makeup brand — an orbit of faces, a reel of the Face of BeautybyAD 2026 finalists, a shop with a bag, the brand’s ten-year story and stockists.',
+    links: [live('https://timothy7380.github.io/beautybyad-website/'), gh('beautybyad-website')],
+  },
+  {
+    cat: 'web',
     title: 'Chinox Cosmetics',
     year: 2026,
     image: img('gh-chinox'),
